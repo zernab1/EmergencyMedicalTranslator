@@ -1,0 +1,16 @@
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\EmergencyMedicalTranslator.exe.config
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\EmergencyMedicalTranslator.exe
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\EmergencyMedicalTranslator.pdb
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\Microsoft.CognitiveServices.Speech.csharp.xml
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.csprojAssemblyReference.cache
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.EmergencyMedicalTranslator.resources
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.Properties.Resources.resources
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.csproj.GenerateResource.cache
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.csproj.CopyComplete
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.exe
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.pdb
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\x64\Debug\EmergencyMedicalTranslator.OptionsMenu.resources
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\x64\Debug\DarrenLee.Translator.dll

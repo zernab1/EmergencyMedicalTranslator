@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmergencyMedicalTranslator", "EmergencyMedicalTranslator\EmergencyMedicalTranslator.csproj", "{CAD6478F-52DD-4668-983D-085BA23B98B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Debug|x64.ActiveCfg = Debug|x64
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Debug|x64.Build.0 = Debug|x64
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Release|x64.ActiveCfg = Release|x64
+		{CAD6478F-52DD-4668-983D-085BA23B98B9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {396F8813-A1B6-48A3-BF40-56211F383850}
+	EndGlobalSection
+EndGlobal

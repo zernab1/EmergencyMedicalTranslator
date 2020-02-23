@@ -1,0 +1,9 @@
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\Debug\EmergencyMedicalTranslator.exe.config
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\Debug\EmergencyMedicalTranslator.exe
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\bin\Debug\EmergencyMedicalTranslator.pdb
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\Debug\EmergencyMedicalTranslator.csprojAssemblyReference.cache
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\Debug\EmergencyMedicalTranslator.EmergencyMedicalTranslator.resources
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\Debug\EmergencyMedicalTranslator.Properties.Resources.resources
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\Debug\EmergencyMedicalTranslator.csproj.GenerateResource.cache
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\Debug\EmergencyMedicalTranslator.exe
+C:\Users\Zernab Gohar\source\repos\EmergencyMedicalTranslator\EmergencyMedicalTranslator\obj\Debug\EmergencyMedicalTranslator.pdb
